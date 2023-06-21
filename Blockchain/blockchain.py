@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-these are the requirementes of block:
+    these are the requirementes of block:
     Hash Previous Block
     Timestmapnone
     MErkle Root HashHash(current Block)
